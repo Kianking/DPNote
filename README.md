@@ -4,3 +4,5 @@
 http://www.tutorialspoint.com/design_pattern/index.htm
 
 http://www.journaldev.com/1827/java-design-patterns-example-tutorial
+
+https://github.com/iluwatar/java-design-patterns
